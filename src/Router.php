@@ -11,13 +11,15 @@ class Router{
         $this->_url = $url;
     }
 
+    public function get($path,$callable){
+
+    }
+
+
     public function drive_check(){
-        echo'<pre';
+        echo'<pre>';
         echo print_r($this->_routes);
         echo '</pre>';
     }
-
-   /* public function get($path,$callable){
-
-    }*/
 }
+
