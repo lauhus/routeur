@@ -1,5 +1,6 @@
 {
     "name": "stagiaire/routeur",
+    "description":"un routeur basique en php",
     "authors": [
         {
             "name": "lauhus",
