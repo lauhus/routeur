@@ -17,7 +17,7 @@ class Router{
         echo '</pre>';
     }
 
-    public function get($path,$callable){
+   /* public function get($path,$callable){
 
-    }
+    }*/
 }
