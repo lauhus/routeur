@@ -6,5 +6,11 @@
             "email": "laurine.hussong@hotmail.fr"
         }
     ],
+    "autoload":{
+        "psr-4":{
+            "App\\":"src"
+        }
+    },
     "require": {}
 }
+
